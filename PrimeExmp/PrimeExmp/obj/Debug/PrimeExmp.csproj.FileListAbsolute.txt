@@ -1,0 +1,8 @@
+D:\RAHUL\PrimeExmp\PrimeExmp\bin\Debug\PrimeExmp.exe.config
+D:\RAHUL\PrimeExmp\PrimeExmp\bin\Debug\PrimeExmp.exe
+D:\RAHUL\PrimeExmp\PrimeExmp\bin\Debug\PrimeExmp.pdb
+D:\RAHUL\PrimeExmp\PrimeExmp\obj\Debug\PrimeExmp.csproj.AssemblyReference.cache
+D:\RAHUL\PrimeExmp\PrimeExmp\obj\Debug\PrimeExmp.csproj.SuggestedBindingRedirects.cache
+D:\RAHUL\PrimeExmp\PrimeExmp\obj\Debug\PrimeExmp.csproj.CoreCompileInputs.cache
+D:\RAHUL\PrimeExmp\PrimeExmp\obj\Debug\PrimeExmp.exe
+D:\RAHUL\PrimeExmp\PrimeExmp\obj\Debug\PrimeExmp.pdb
